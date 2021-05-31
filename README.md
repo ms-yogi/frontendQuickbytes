@@ -10,13 +10,13 @@ You can also contribute to these challenge list or share your solutions. We can 
 
 Here is the list of all challenges -
 
-1. [**Count your words**: Twitter like textarea with character count](#count-your-words)
+1. [**Smart Textarea**: Twitter like textarea with character count](#smart-textarea)
 2. [**Dropdown Component with select/multiselect feature** - Similar to React Select](#dropdown-component)
 3. [**Autosuggest Input**](#autosuggest-input)
 4. [**Manage cookies pop-up**](#manage-cookies-pop-up)
 5. [**Progress Bar**](#progress-bar)
 
-## Count your words
+## Smart Textarea
 
 Twitter like textarea with character count
 
