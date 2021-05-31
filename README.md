@@ -4,15 +4,17 @@
 
 This reepository contains real life frontend challenges which you can use to practice frontend! You can use any framework/library to solve these challenges. These are created for the fun and practice purpose to go beyond to-dos.
 
-If you like these challenges, would appriciate getting a star 🌟
+If you like these challenges, would appriciate getting a star to this repository 🌟
 
 You can also contribute to these challenge list or share your solutions. We can create a solutions section too for those links!
 
 Here is the list of all challenges -
 
-1. [**Count your words**: Twitter like textarea with character count](count-your-words)
-2. [**Dropdown Component with select/multiselect feature** - Similar to React Select](dropdown-component)
-3. [**Autosuggest Input**](autosuggest-input)
+1. [**Count your words**: Twitter like textarea with character count](#count-your-words)
+2. [**Dropdown Component with select/multiselect feature** - Similar to React Select](#dropdown-component)
+3. [**Autosuggest Input**](#autosuggest-input)
+4. [**Manage cookies pop-up**](#manage-cookies-pop-up)
+5. [**Progress Bar**](#progress-bar)
 
 ## Count your words
 
@@ -47,8 +49,29 @@ Features to include in it -
 
 We all have tried Google search input. It's pretty cool how it shows you some suggestions based on your typing. We need to create exactly the same. Consider a search location feature, where you are adding name if your city and country. Implement a search feature with list of cities and countries and show user options based on what the user is typing.
 
+_This is one of the most frequently asked question in the interviews. So that is a bonus point._
+
 Features to include in it -
 
 1. A search input with autosuggest option.
 2. Enable debouncing feature to save excess api calls.
 3. Use any api or json list to show suggestions
+
+## Manage cookies pop-up
+
+Ever opened a website and saw an annoying pop-up asking to accept cookies or manage your preferences? We need to build that! A custom pop-up compoenent for creating and managing cookies in an application.
+
+Features to include in it -
+
+1. After loading a page, a pop-up asking to accept cookies should show up.
+2. User should have preeferences on accepting all/some or no cookies.
+3. Same preference should work in your app.
+4. After 10-15 seconds the pop-up should become hidden with a default state.
+
+## Progress Bar
+
+Progress bars showing progress of something are commonly seen. Here you can develop 3 types of progress bar
+
+1. Progress bar showing page scroll progress, at the top most position of your page.
+2. Progress bar showing progress as per value passed in percentage.
+3. Circular variant of same progress bar.
