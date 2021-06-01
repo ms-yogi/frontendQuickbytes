@@ -15,7 +15,7 @@ Here is the list of all challenges -
 3. [**Autosuggest Input**](#autosuggest-input)
 4. [**Manage cookies pop-up**](#manage-cookies-pop-up)
 5. [**Progress Bar**](#progress-bar)
-6. [** Scroll and Fix it!**](#scroll-and-fix-it)
+6. [**Scroll and Fix it!**](#scroll-and-fix-it)
 
 ## Smart Textarea
 
