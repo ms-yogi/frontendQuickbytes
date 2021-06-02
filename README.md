@@ -1,6 +1,6 @@
 ![Frontend QuickBytes](bg.png)
 
-# frontend Quickbytes : Real-life Inspired Challenges (Total - 7 )
+# Frontend Quickbytes: Reallife Inspired Challenges (Total: 7)
 
 This repository contains real life frontend challenges which you can use to practice frontend! You can use any framework/library to solve these challenges. These are created for the fun and practice purpose to go beyond to-dos.
 
@@ -15,7 +15,7 @@ Here is the list of all challenges -
 3. [**Autosuggest Input**](#autosuggest-input)
 4. [**Manage cookies pop-up**](#manage-cookies-pop-up)
 5. [**Progress Bar**](#progress-bar)
-6. [** Scroll and Fix it!**](#scroll-and-fix-it)
+6. [**Scroll and Fix it!**](#scroll-and-fix-it)
 7. [**Password Module**](#password-module)
 
 ## Smart Textarea
