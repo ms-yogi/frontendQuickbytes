@@ -1,6 +1,6 @@
 ![Frontend QuickBytes](bg.png)
 
-# frontendQuickbytes
+# frontend Quickbytes : Real-life Inspired Challenges (Total - 7 )
 
 This repository contains real life frontend challenges which you can use to practice frontend! You can use any framework/library to solve these challenges. These are created for the fun and practice purpose to go beyond to-dos.
 
@@ -15,7 +15,8 @@ Here is the list of all challenges -
 3. [**Autosuggest Input**](#autosuggest-input)
 4. [**Manage cookies pop-up**](#manage-cookies-pop-up)
 5. [**Progress Bar**](#progress-bar)
-6. [**Scroll and Fix it!**](#scroll-and-fix-it)
+6. [** Scroll and Fix it!**](#scroll-and-fix-it)
+7. [**Password Module**](#password-module)
 
 ## Smart Textarea
 
@@ -83,3 +84,14 @@ Ever seen a website where you scroll and one of the sections gets fixed at a cer
 
 1. Implement a section which will be initially somewhere on a webpage.
 2. After you scroll to that section, the section should get fixed on top and other sections of your site should continue scrolling.
+
+## Password Module
+
+Doesn't it look cool that your password strength and password criteria is getting checked as you type the password? That is the task in this challenge.
+
+Features to include in it -
+
+1. Create a password input component.
+2. Add an eye icon to simply toggle between visible and non-visible states.
+3. Check the password criteria as the user starts entering the password. You can either mark after every matching criteria or display a message showing which criteria yet to pass.
+4. Also, find and show the strength of the password based on parameters from criteria it has matched.
