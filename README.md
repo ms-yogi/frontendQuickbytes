@@ -1,6 +1,6 @@
 ![Frontend QuickBytes](bg.png)
 
-# Frontend Quickbytes: Reallife Inspired Challenges (Total: 7)
+# Frontend Quickbytes: Reallife Inspired Challenges (Total: 8)
 
 This repository contains real life frontend challenges which you can use to practice frontend! You can use any framework/library to solve these challenges. These are created for the fun and practice purpose to go beyond to-dos.
 
@@ -17,6 +17,7 @@ Here is the list of all challenges -
 5. [**Progress Bar**](#progress-bar)
 6. [**Scroll and Fix it!**](#scroll-and-fix-it)
 7. [**Password Module**](#password-module)
+8. [**Multi-step Forms**](#multi-step-forms)
 
 ## Smart Textarea
 
@@ -95,3 +96,14 @@ Features to include in it -
 2. Add an eye icon to simply toggle between visible and non-visible states.
 3. Check the password criteria as the user starts entering the password. You can either mark after every matching criteria or display a message showing which criteria yet to pass.
 4. Also, find and show the strength of the password based on parameters from criteria it has matched.
+
+## Multi-step Forms
+
+Many registration processes need multi-step forms. This is a good use case to maintain data between steps and managing steps transition using javascript. To understand the multistep registration form you can refer to this [dribbble shot](https://dribbble.com/shots/15184687-Register-Scriptcase). Image below
+<img src="challenge8.png" alt="challenge8" style="height:200px"/>
+
+Features to include in it -
+
+1. Create a form with 3 different pages.
+2. Add a transition element on top, which we can use to navigate between three forms.
+3. Last form should submit the data.
