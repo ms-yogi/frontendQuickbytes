@@ -100,7 +100,7 @@ Features to include in it -
 ## Multi-step Forms
 
 Many registration processes need multi-step forms. This is a good use case to maintain data between steps and managing steps transition using javascript. To understand the multistep registration form you can refer to this [dribbble shot](https://dribbble.com/shots/15184687-Register-Scriptcase). Image below
-<img src="challenge8.png" alt="challenge8" style="height:200px"/>
+<img src="challenge8.png" alt="challenge8" height="400"/>
 
 Features to include in it -
 
