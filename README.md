@@ -18,6 +18,8 @@ Here is the list of all challenges -
 6. [**Scroll and Fix it!**](#scroll-and-fix-it)
 7. [**Password Module**](#password-module)
 8. [**Multi-step Forms**](#multi-step-forms)
+9. [**Back To Top Button**](#back-to-top-button)
+10. [**Toggle Sidebar**](#toggle-sidebar)
 
 ## Smart Textarea
 
@@ -107,3 +109,25 @@ Features to include in it -
 1. Create a form with 3 different pages.
 2. Add a transition element on top, which we can use to navigate between three forms.
 3. Last form should submit the data.
+
+## Back To Top Button
+
+Ever noticed a long webpage with a "Back To Top" button? This makes it easier to go back to the top of the webpage. That's the challange.
+
+Features to include in it -
+
+1. Clicking the button scrolls the page to top.
+2. Make the scroll smooth, instead of suddenly going back to top.
+
+## Toggle Sidebar
+
+In most of the course webpages, there is a sidebar with chapter names, which can be toggled between show and hide state.
+
+Two examples:
+- https://youtube.com/
+- https://codepen.io/swastikyadav/full/zYZPyrN
+
+Features to include in it - 
+
+1. Create a toggle button which should show / hide the sidebar accordingly.
+2. Sidebar should be fixed. It should not scroll with rest of the page.
