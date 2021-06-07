@@ -129,5 +129,5 @@ Two examples:
 
 Features to include in it - 
 
-1. Create a toggle button should show / hide the sidebar accordingly.
+1. Create a toggle button which should show / hide the sidebar accordingly.
 2. Sidebar should be fixed. It should not scroll with rest of the page.
