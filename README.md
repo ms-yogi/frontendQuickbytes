@@ -119,7 +119,7 @@ Features to include in it -
 1. Clicking the button scrolls the page to top.
 2. Make the scroll smooth, instead of suddenly going back to top.
 
-## Sidebar Toggler
+## Toggle Sidebar
 
 In most of the course webpages, there is a sidebar with chapter names, which can be toggled between show and hide state.
 
