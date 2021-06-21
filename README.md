@@ -1,6 +1,6 @@
 ![Frontend QuickBytes](bg.png)
 
-# Frontend Quickbytes: Reallife Inspired Challenges (Total: 8)
+# Frontend Quickbytes: Reallife Inspired Challenges (Total: 11)
 
 This repository contains real life frontend challenges which you can use to practice frontend! You can use any framework/library to solve these challenges. These are created for the fun and practice purpose to go beyond to-dos.
 
@@ -20,6 +20,7 @@ Here is the list of all challenges -
 8. [**Multi-step Forms**](#multi-step-forms)
 9. [**Back To Top Button**](#back-to-top-button)
 10. [**Toggle Sidebar**](#toggle-sidebar)
+11. [**Copy to clipboard**](#copy-to-clipboard)
 
 ## Smart Textarea
 
@@ -131,3 +132,13 @@ Features to include in it -
 
 1. Create a toggle button which should show / hide the sidebar accordingly.
 2. Sidebar should be fixed. It should not scroll with rest of the page.
+
+## Copy to clipboard
+
+Copy to clipboard button is very common either on code heavy websites or for copying links. You need to create a copy to clipboard feature where on clicking the button the content should get copied to your clipboard along with a small pop-up with text `copied!`. That's the challange.
+
+Features to include in it -
+
+1. Clicking the button text should get copied.
+2. After copying, a small pop-up should show `copied!` text.
+3. This pop-up should get vanished in 2 seconds with smooth transition.
