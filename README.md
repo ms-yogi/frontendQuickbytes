@@ -21,6 +21,8 @@ Here is the list of all challenges -
 9. [**Back To Top Button**](#back-to-top-button)
 10. [**Toggle Sidebar**](#toggle-sidebar)
 11. [**Copy to clipboard**](#copy-to-clipboard)
+12. [**Timeline Component**](#timeline-component)
+13. [**Floating Sidebar**](#floating-sidebar)
 
 ## Smart Textarea
 
@@ -142,3 +144,33 @@ Features to include in it -
 1. Clicking the button text should get copied.
 2. After copying, a small pop-up should show `copied!` text.
 3. This pop-up should get vanished in 2 seconds with smooth transition.
+
+## Timeline Component
+
+A timeline component has a lot of use cases. It is used to show work experience on resumes, job profiles or portfolios. It can also be used as a vertical stepper component. The challenge is to create a Timeline Component using `HTML` and `CSS`.
+
+A codepen link has been provided below for your reference.
+
+Example:
+- https://codepen.io/jash_139/full/oNoMoNW
+
+Features to include in it -
+
+1. Create a timeline component using pure `HTML` and `CSS`.
+2. You can take it a step further by making the timeline container an Accordion. The contents of which should be revealed when the dropdown button is clicked.
+
+<img src="images/timelineComponent.png" alt="Timeline Component" height="500" />
+
+## Floating Sidebar
+
+A floating sidebar has a modern touch to it compared to a traditional sidebar. The challenge is to create a floating sidebar with navigation links. The current page link should be highlighted and have an indicator next to it.
+
+Example:
+- https://codepen.io/jash_139/full/OJOwQEz
+
+Features to include in it -
+1. The position of the sidebar should be fixed with respect to the viewport. Scrolling the page shouldn't affect its position.
+2. Your implementation should take care of the height of the sidebar with even margins around it.
+3. There should be an indicator for the current page.
+
+<img src="images/floatingSidebar.png" alt="Floating Sidebar" height="500" />
